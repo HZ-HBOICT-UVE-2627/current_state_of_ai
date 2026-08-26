@@ -67,7 +67,7 @@
 </tr>
 <tr>
 <td style="text-align: center;">3</td>
-<td>Prompts</td>
+<td>Prompts and code</td>
 <td style="text-align: center;"></td>
 </tr>
 <tr>
